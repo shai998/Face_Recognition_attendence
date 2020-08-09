@@ -1,0 +1,642 @@
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.csprojResolveAssemblyReference.cache
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.Cache
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\App.baml
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\abelo\source\repos\Pizzaria1\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\App.baml
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Attendance.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\Pizzaria1-master\Pizzaria1\obj\Debug\Attendance.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Attendance.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\App.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Attendance.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserPlusss.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserPlusss.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserUpdate.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserUpdate.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\AccessControl.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\AccessControl.baml
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserControlChat.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\쀼륩쀼륩\WPF UI\Pizzaria1\obj\Debug\UserControlChat.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\AccessControl.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Attendance.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlChat.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserPlusss.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserUpdate.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\App.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\AccessControl.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Attendance.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlChat.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserPlusss.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\UserUpdate.baml
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\깃폴더\코드_최유진\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\AccessControl.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Attendance.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlChat.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserPlusss.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserUpdate.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\App.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\AccessControl.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Attendance.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlChat.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserPlusss.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\UserUpdate.baml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\x86\e_sqlite3.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\x64\e_sqlite3.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\obj\Debug\Pizzaria1_Content.g.cs
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\EntityFramework.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\System.Data.SQLite.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\EntityFramework.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\System.Data.SQLite.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\Desktop\WPF UI 거의최종\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\x86\e_sqlite3.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\x64\e_sqlite3.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\AccessControl.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Attendance.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserControlChat.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserPlusss.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserUpdate.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1_Content.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\App.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\AccessControl.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Attendance.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserControlChat.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserPlusss.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\UserUpdate.baml
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\RealTime.g.cs
+C:\Users\User\Desktop\WPF WPF\WPF UI 진수꺼 합친거\Pizzaria1\obj\Debug\RealTime.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\x86\e_sqlite3.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\x64\e_sqlite3.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\AccessControl.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Attendance.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\RealTime.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\UserControlEscolha.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\UserControlInicio.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_Content.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\App.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\AccessControl.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Attendance.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\RealTime.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\UserControlEscolha.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\UserControlInicio.baml
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\User\Desktop\WPF WPF\UIUIUIUI\Pizzaria1\bin\Debug\twitter-korean-processor.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\StuItem.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_Content.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\x86\e_sqlite3.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\x64\e_sqlite3.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\twitter-korean-processor.dll
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.xml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItem.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\App.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\StuItem.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItem.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\IolistControl.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\datelistControl.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItemslist.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\StuItemslist.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\ChatControl.g.cs
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\IolistControl.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\datelistControl.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItemslist.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\StuItemslist.baml
+C:\Users\bit\Desktop\UIUI\UIUIUIUI\Pizzaria1\obj\Debug\ChatControl.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\x86\e_sqlite3.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\x64\e_sqlite3.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\twitter-korean-processor.dll
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.xml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\IolistControl.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\datelistControl.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItemslist.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItem.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItem.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItemslist.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\ChatControl.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_Content.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\App.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\IolistControl.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\datelistControl.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItemslist.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItem.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItem.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItemslist.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\ChatControl.baml
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\관리자(준)최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\x86\e_sqlite3.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\x64\e_sqlite3.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\Pizzaria1.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\twitter-korean-processor.dll
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.xml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\IolistControl.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\datelistControl.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItemslist.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItem.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItem.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItemslist.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\ChatControl.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_Content.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\App.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\IolistControl.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\datelistControl.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItemslist.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\RealTimeItem.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItem.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\StuItemslist.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\ChatControl.baml
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.csproj.CopyComplete
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.exe
+C:\Users\bit\Desktop\관리자 최종\UIUIUIUI\Pizzaria1\obj\Debug\Pizzaria1.pdb

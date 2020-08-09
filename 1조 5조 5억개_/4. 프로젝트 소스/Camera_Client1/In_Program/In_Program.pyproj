@@ -1,0 +1,65 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>015bc2cb-f2ad-400d-bc30-59d038bfceff</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>UI.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>In_Program</Name>
+    <RootNamespace>In_Program</RootNamespace>
+    <InterpreterId>CondaEnv|CondaEnv|Model</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Camera_Widget.py" />
+    <Compile Include="Chatbot_cam.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="con_Server.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataBase.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="face_detect.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="In_Program.py" />
+    <Compile Include="Main.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ParseData.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Training.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UI.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="CondaEnv|CondaEnv|Model" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Camera_Widget.ui" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

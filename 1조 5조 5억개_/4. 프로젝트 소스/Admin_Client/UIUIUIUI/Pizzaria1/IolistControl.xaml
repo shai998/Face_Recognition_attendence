@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="Pizzaria1.AccessControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pizzaria1"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="360" d:DesignWidth="715">
+    <Grid Background="#FFF3F3F3">
+        <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}" Grid.ColumnSpan="2" Margin="0,0,0.2,0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="2">
+                        <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="이름으로 검색" Name="namebox" Foreground="Black" Margin="10,10,103.4,21" TextChanged="Namebox_TextChanged"/>
+                    </Grid>
+
+                </Grid>
+                <Grid Grid.Row="1">
+                    <ListView Grid.Row="1" Margin="10" Name="ioinfolist">
+                        <ListView.View>
+                            <GridView AllowsColumnReorder="True" ColumnHeaderToolTip="InOutInformation">
+                                <GridViewColumn Header="Name" Width="120" DisplayMemberBinding="{Binding Name}"/>
+                                <GridViewColumn Header="State" Width="120" DisplayMemberBinding="{Binding State}"/>
+                                <GridViewColumn Header="Time" Width="200" DisplayMemberBinding="{Binding Time}"/>
+                                <GridViewColumn Header="Date" Width="200" DisplayMemberBinding="{Binding Date}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </Grid>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>
+
